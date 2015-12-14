@@ -20,12 +20,12 @@
 
     <section class="main-content">
       <h3>
-<a id="What I wamt to make my website be like." class="anchor" href="#What I want to make my website be like." aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+<a id="What I wamt to make my website be like." class="anchor" href="#What I want to make my website be like." aria-hidden="true"><span class="octicon octicon-link"></span></a>What I want to make my website be like.</h3>
 
 <p> Since I personally like looking up other people's artworks, share the ideas of how to improve, and share the ideas of what to create for specific topics, I want to create a website that allows to do those.</p>
 
 <h3>
-<a id="Possible ideas" class="anchor" href="#Possible ideas" aria-hidden="true"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+<a id="Possible ideas" class="anchor" href="#Possible ideas" aria-hidden="true"><span class="octicon octicon-link"></span></a>List of possible ideas</h3>
 
 <p><ol>
 <li> photo/picture sharing website </li>

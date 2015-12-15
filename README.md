@@ -33,13 +33,27 @@
 <li> Business website </li>
 <li> E-commerce page design </li>
 <li> Design community website layout </li>
+<li> Italian restaurant style tile </li>
 
 </p>
 
 <h3>
-<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Creating pages manually</h3>
+<a id="Types of sites" class="anchor" href="#Types of sites" aria-hidden="true"><span class="octicon octicon-link"></span></a>Creating pages manually</h3>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+<p><ul>
+<li> Business </li>
+<li> Blogs </li>
+<li> News </li>
+<li> How-to </li>
+<li> Music </li>
+<li> Artistic </li>
+<li> Communities </li>
+<li> Development </li>
+
+</ul>
+
+
+</p>
 
 <h3>
 <a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>

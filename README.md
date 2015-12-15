@@ -38,7 +38,7 @@
 </p>
 
 <h3>
-<a id="Types of sites" class="anchor" href="#Types of sites" aria-hidden="true"><span class="octicon octicon-link"></span></a>Creating pages manually</h3>
+<a id="Types of sites" class="anchor" href="#Types of sites" aria-hidden="true"><span class="octicon octicon-link"></span></a>Types of sites</h3>
 
 <p><ul>
 <li> Business </li>

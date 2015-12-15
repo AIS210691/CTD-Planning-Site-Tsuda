@@ -31,6 +31,8 @@
 <li> photo/picture sharing website </li>
 <li> informational website </li>
 <li> Business website </li>
+<li> E-commerce page design </li>
+<li> Design community website layout </li>
 
 </p>
 

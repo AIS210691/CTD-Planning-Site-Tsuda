@@ -56,9 +56,10 @@
 </p>
 
 <h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+<a id="Brief" class="anchor" href="#Brief" aria-hidden="true"><span class="octicon octicon-link"></span></a>Brief</h3>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+<p> A new artworks sharing site wanted to gather more attentions and get more users to get an account for free. I want to keep the website decoration as simple as possible but I also wanted to be attractive to the visitors that make them willing to create an account and always trying to keep in touch with it. Since every single person has their own style, I want the back ground picture to be changeble, but I want the main color of this website to be something light and soft. Just like other social media, there is a bar on top of the website with the main color, but I want it to be changable to show the audience how free they can be and how creative they can be in this website. And last but not least, I want them to enjoy the interaction with the animation that they can play with just by clicking the menue selections.
+</p>
 
 <h3>
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
